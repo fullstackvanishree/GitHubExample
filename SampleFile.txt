@@ -1,3 +1,7 @@
 This is Sample File
 adding second line
+<<<<<<< HEAD
 adding Forth line
+=======
+adding Third Line
+>>>>>>> 635b48f3168863896f7d0997e21714aa4dbc70ef
